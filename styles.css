@@ -1,0 +1,26 @@
+p {
+  color: red;
+  width: 500px;
+  b
+}
+
+p, li, h1 {
+  color: red;
+}
+
+html {
+  background-color: #00539F;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+.quote { 
+  border: 1px solid black;
+}
+#corevalues {border: 1px solid black;
+}
