@@ -10,5 +10,7 @@
  
  // Assign the function to the onclick event on that element
  foxImage.onclick = sayOuch;
+
+
  
  
